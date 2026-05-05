@@ -46,6 +46,5 @@ public class Desafio {
             } else if (opcao != 4) {
                 System.out.println("Opção inválida!");
             }
-        }
-    }
+
 }
